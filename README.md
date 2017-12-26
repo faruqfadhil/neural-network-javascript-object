@@ -1,8 +1,7 @@
 # neural-network-javascript-object
 neural network algorithm simulation using javascript object
 
-
-=========data training=========
+# data training
 endurance = x1,
 strength = x2,
 result--> bad = 0, good = 1
